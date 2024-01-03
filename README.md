@@ -1,9 +1,9 @@
-# 소잃고 코드고친다(PARK-HYUN-SUNG)😉
+# 소잃고 코드고친다(PARK-HYUN-SUNG)🍔
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatnsskd123)](https://solved.ac/rlatnsskd123/)
-# 💪Skills
+# 🐱‍🚀Skills
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
