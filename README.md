@@ -23,7 +23,6 @@
 
 ### Collaboration Tools
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![sketch](https://img.shields.io/badge/sketch-F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=white)
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
