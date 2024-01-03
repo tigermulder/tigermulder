@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftigermulder%2Fpark-hyunsung&count_bg=%23BF45FF&title_bg=%232BA41A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatnsskd123)](https://solved.ac/rlatnsskd123/)
+![tigermulder's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigermulder&show_icons=true&theme=radical)
+
 # 🐱‍🚀Skills
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
