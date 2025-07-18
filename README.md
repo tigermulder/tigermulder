@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlatnsskd123)](https://solved.ac/rlatnsskd123)
 ![tigermulder's GitHub stats](https://github-readme-stats.vercel.app/api?username=tigermulder&show_icons=true&theme=react)
 
-# 🐱‍🚀Skills
+# Skills
 ### Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
