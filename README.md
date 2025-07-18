@@ -1,4 +1,4 @@
-# park-hyun-sung🍔
+# park hyun sung
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlatnsskd123)](https://solved.ac/rlatnsskd123)
